@@ -12,7 +12,7 @@
 
 [![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter)](https://twitter.com/dibarbieri21)
 
-## Habilidades
+## Skills
 
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
 
@@ -20,7 +20,7 @@
 
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
 
-# Linguagens de Programação
+# Programming languages
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 
 ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
