@@ -37,6 +37,12 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-9.6%2B-000000?style=for-the-badge&logo=postgresql)
+
+
+
+
+
 
 
 
