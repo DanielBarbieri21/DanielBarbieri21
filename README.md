@@ -22,6 +22,8 @@
 
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
 
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+
 
 
 # Programming languages
@@ -34,8 +36,6 @@
 ![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=823085)
 
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-9.6%2B-000000?style=for-the-badge&logo=postgresql)
 
