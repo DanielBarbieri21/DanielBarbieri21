@@ -37,6 +37,8 @@
 
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
 
+![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php)
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-9.6%2B-000000?style=for-the-badge&logo=postgresql)
 
 
