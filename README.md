@@ -41,6 +41,9 @@
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-9.6%2B-000000?style=for-the-badge&logo=postgresql)
 
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
+
+
 
 
 
