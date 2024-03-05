@@ -1,5 +1,5 @@
 # Daniel Barbieri
-## Graduating at Software Engineering, Bachelor's degree in Economics and Administration.
+## Graduating in Software Engineering and Systems Analysis and Development, Bachelor in Economics and Administration..
 ## Specialist in Computer Networks and AWS Cloud
 
 ## Connect with me
