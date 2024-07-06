@@ -1,6 +1,6 @@
 # Daniel Barbieri
-## Graduating in Software Engineering and Systems Analysis and Development, Bachelor in Economics and Administration..
-## Specialist in Computer Networks and AWS Cloud
+## Graduating in Software Engineering, Big Data_AI and Systems Analysis and Development, Bachelor in Economics and Administration..
+## Specialist in Computer Networks and AWS Cloud, IBM Cloud, Oracle Cloud,
 
 ## Connect with me
 
