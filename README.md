@@ -18,6 +18,11 @@
 ![Oracle Cloud Infrastructure Generative AI Professional](https://img.shields.io/badge/OCI_Generative_AI_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white)  
 ![Scrum Foundation Professional](https://img.shields.io/badge/Scrum_Foundation_Professional-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white)  
 
+
+
+
+
+
 ## Skills
 
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
@@ -52,6 +57,10 @@
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)  
 
+
+
+
+
 # Programming languages
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 
@@ -75,20 +84,15 @@
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 
-## O que estou aprendendo atualmente
 
-![Kotlin](https://img.shields.io/badge/Kotlin-000?style=for-the-badge&logo=kotlin)
 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-000?style=for-the-badge&logo=kubernetes)
 
-![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular)
 
-![Microservices](https://img.shields.io/badge/Microservices-000?style=for-the-badge&logo=microservices)
 
-![Android & iOS Development](https://img.shields.io/badge/Mobile_Development-000?style=for-the-badge&logo=apple&logoColor=white)  
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielBarbieri21&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## My Contributions
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DanielBarbieri21&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/DanielBarbieri21/dio-lab-open-source)
+
