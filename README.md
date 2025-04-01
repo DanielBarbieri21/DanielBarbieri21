@@ -38,7 +38,9 @@
 
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
 
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
 
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)  
 
 
 
@@ -57,13 +59,13 @@
 
 ![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php)
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-9.6%2B-000000?style=for-the-badge&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL%2B-000000?style=for-the-badge&logo=postgresql)
 
 ![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
 
-
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 
 
 
