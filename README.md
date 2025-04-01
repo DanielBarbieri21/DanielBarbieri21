@@ -70,6 +70,8 @@
 
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
 
+![Dart](https://img.shields.io/badge/Dart-000?style=for-the-badge&logo=dart&logoColor=white)  
+
 ![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php)
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL%2B-000000?style=for-the-badge&logo=postgresql)
