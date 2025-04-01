@@ -31,9 +31,11 @@
 
 ![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-000?style=for-the-badge&logo=ibmcloud)
 
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-000?style=for-the-badge&logo=googlecloud&logoColor=white)  
+
 ![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-000?style=for-the-badge&logo=oracle)
 
-![Oracle OCI](https://img.shields.io/badge/Oracle%20OCI-000?style=for-the-badge&logo=oracle)
+![Oracle OCI Generative](https://img.shields.io/badge/Oracle%20OCI-000?style=for-the-badge&logo=oracle)
 
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 
