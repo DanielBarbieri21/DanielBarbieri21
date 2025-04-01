@@ -19,6 +19,7 @@
 ![Scrum Foundation Professional](https://img.shields.io/badge/Scrum_Foundation_Professional-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white)  
 
 
+
 ## Skills
 
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
