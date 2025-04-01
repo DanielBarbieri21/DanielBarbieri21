@@ -12,6 +12,13 @@
 
 [![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter)](https://twitter.com/dibarbieri21)
 
+## Certificações
+
+![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![Oracle Cloud Infrastructure Generative AI Professional](https://img.shields.io/badge/OCI_Generative_AI_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white)  
+![Scrum Foundation Professional](https://img.shields.io/badge/Scrum_Foundation_Professional-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white)  
+
+
 ## Skills
 
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
