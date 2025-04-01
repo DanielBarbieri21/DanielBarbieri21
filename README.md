@@ -14,9 +14,10 @@
 
 ## Certificações
 
-![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black)  
-![Oracle Cloud Infrastructure Generative AI Professional](https://img.shields.io/badge/OCI_Generative_AI_Professional-666666?style=for-the-badge&logo=oracle&logoColor=F80000)  
-![Scrum Foundation Professional](https://img.shields.io/badge/Scrum_Foundation_Professional-009FDA?style=for-the-badge&logo=agile&logoColor=white)  
+![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-000?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![Oracle Cloud Infrastructure Generative AI Professional](https://img.shields.io/badge/OCI_Generative_AI_Professional-000?style=for-the-badge&logo=oracle&logoColor=white)  
+![Scrum Foundation Professional](https://img.shields.io/badge/Scrum_Foundation_Professional-000?style=for-the-badge&logo=agile&logoColor=white)  
+
 
 
 
