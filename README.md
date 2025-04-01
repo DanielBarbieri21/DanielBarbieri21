@@ -14,9 +14,10 @@
 
 ## Certificações
 
-![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-000?style=for-the-badge&logo=amazonaws&logoColor=white)  
-![Oracle Cloud Infrastructure Generative AI Professional](https://img.shields.io/badge/OCI_Generative_AI_Professional-000?style=for-the-badge&logo=oracle&logoColor=white)  
-![Scrum Foundation Professional](https://img.shields.io/badge/Scrum_Foundation_Professional-000?style=for-the-badge&logo=agile&logoColor=white)  
+![AWS Practitioner](https://img.shields.io/badge/AWS_Practitioner-000?style=for-the-badge&logo=amazon-aws)
+![Oracle Cloud Infrastructure Generative AI Professional](https://img.shields.io/badge/Oracle_Generative_AI-000?style=for-the-badge&logo=oracle)
+![Scrum Foundation Professional](https://img.shields.io/badge/Scrum_Foundation-000?style=for-the-badge&logo=scrum-alliance)
+
 
 
 
@@ -48,6 +49,8 @@
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
+
+![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase)
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)  
 
