@@ -111,9 +111,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielBarbieri21&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielBarbieri21&theme=tokyonight&show_icons=true&hide_border=true&count_private=false&include_all_commits=false&hide=contribs)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielBarbieri21&theme=tokyonight&layout=compact&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielBarbieri21&theme=tokyonight&layout=compact&hide_border=true&langs_count=8&exclude_repo=DanielBarbieri21)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DanielBarbieri21&theme=tokyonight&hide_border=true)
 
@@ -161,7 +161,9 @@
 
 <div align="center">
 
-![Snake animation](https://github.com/DanielBarbieri21/DanielBarbieri21/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/DanielBarbieri21/DanielBarbieri21/output/github-contribution-grid-snake.svg)
+
+*Animacao da cobrinha comendo suas contribuições - Atualizada automaticamente!*
 
 </div>
 
