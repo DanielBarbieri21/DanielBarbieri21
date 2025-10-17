@@ -163,7 +163,7 @@
 
 ![Snake animation](https://raw.githubusercontent.com/DanielBarbieri21/DanielBarbieri21/output/github-contribution-grid-snake.svg)
 
-*Animacao da cobrinha comendo suas contribuições - Atualizada automaticamente!*
+
 
 </div>
 
