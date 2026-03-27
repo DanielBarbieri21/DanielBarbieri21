@@ -114,11 +114,18 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielBarbieri21&theme=tokyonight&show_icons=true&hide_border=true&locale=pt-br)
+<a href="https://github.com/DanielBarbieri21">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=DanielBarbieri21&theme=tokyonight&show_icons=true&hide_border=true&locale=pt-br" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/DanielBarbieri21">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielBarbieri21&theme=tokyonight&layout=compact&hide_border=true&langs_count=8&exclude_repo=DanielBarbieri21" alt="Top Languages" />
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielBarbieri21&theme=tokyonight&layout=compact&hide_border=true&langs_count=8&exclude_repo=DanielBarbieri21)
+<br><br>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DanielBarbieri21&theme=tokyonight&hide_border=true)
+<a href="https://github.com/DanielBarbieri21">
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=DanielBarbieri21&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</a>
 
 </div>
 
@@ -128,10 +135,21 @@
 
 <div align="center">
 
-[![ML-Challenge](https://github-readme-stats.vercel.app/api/pin/?username=DanielBarbieri21&repo=ML-Challenge&theme=tokyonight&hide_border=true)](https://github.com/DanielBarbieri21/ML-Challenge)
-[![SistemaGerenciamentoEstoque](https://github-readme-stats.vercel.app/api/pin/?username=DanielBarbieri21&repo=SistemaGerenciamentoEstoque&theme=tokyonight&hide_border=true)](https://github.com/DanielBarbieri21/SistemaGerenciamentoEstoque)
-[![Treino_Loterias](https://github-readme-stats.vercel.app/api/pin/?username=DanielBarbieri21&repo=Treino_Loterias&theme=tokyonight&hide_border=true)](https://github.com/DanielBarbieri21/Treino_Loterias)
+<a href="https://github.com/DanielBarbieri21/ML-Challenge">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=DanielBarbieri21&repo=ML-Challenge&theme=tokyonight&hide_border=true" alt="ML-Challenge" />
+</a>
+<a href="https://github.com/DanielBarbieri21/SistemaGerenciamentoEstoque">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=DanielBarbieri21&repo=SistemaGerenciamentoEstoque&theme=tokyonight&hide_border=true" alt="SistemaGerenciamentoEstoque" />
+</a>
 
+<br><br>
+
+<a href="https://github.com/DanielBarbieri21/Treino_Loterias">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=DanielBarbieri21&repo=Treino_Loterias&theme=tokyonight&hide_border=true" alt="Treino_Loterias" />
+</a>
+<a href="https://github.com/DanielBarbieri21/Projeto_TechMarket">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=DanielBarbieri21&repo=Projeto_TechMarket&theme=tokyonight&hide_border=true" alt="Projeto_TechMarket" />
+</a>
 
 </div>
 
