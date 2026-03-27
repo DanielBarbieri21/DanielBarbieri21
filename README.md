@@ -131,7 +131,7 @@
 [![ML-Challenge](https://github-readme-stats.vercel.app/api/pin/?username=DanielBarbieri21&repo=ML-Challenge&theme=tokyonight&hide_border=true)](https://github.com/DanielBarbieri21/ML-Challenge)
 [![SistemaGerenciamentoEstoque](https://github-readme-stats.vercel.app/api/pin/?username=DanielBarbieri21&repo=SistemaGerenciamentoEstoque&theme=tokyonight&hide_border=true)](https://github.com/DanielBarbieri21/SistemaGerenciamentoEstoque)
 [![Treino_Loterias](https://github-readme-stats.vercel.app/api/pin/?username=DanielBarbieri21&repo=Treino_Loterias&theme=tokyonight&hide_border=true)](https://github.com/DanielBarbieri21/Treino_Loterias)
-[![Projeto_de_Redes](https://github-readme-stats.vercel.app/api/pin/?username=DanielBarbieri21&repo=Projeto_de_Redes&theme=tokyonight&hide_border=true)](https://github.com/DanielBarbieri21/Projeto_de_Redes)
+
 
 </div>
 
